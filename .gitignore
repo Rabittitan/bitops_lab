@@ -1,0 +1,11 @@
+# Executable files
+trap_demo
+test_bitops
+
+# Object files
+*.o
+
+# VSCode settings (optional)
+.vscode/
+
+
